@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a software engineer student at Faculty of Informatics and Information Technology in Bratislava, Slovakia and my main focus is Front-End development and IT Architecture. My specialization extends to full-stack development and UX despite my main focus areas.
+I'm a software engineer student at Faculty of Informatics and Information Technology in Bratislava, Slovakia with focus on Front-End development and IT Architecture. My junior skills extend to full-stack development and UX despite my main focus areas.
 
 🔭 &nbsp;I'm currently working on **Next.js + Supabase e-commerce website**  
 🌱 &nbsp;I'm currently learning **JavaScript and TypeScript**  
