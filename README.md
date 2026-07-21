@@ -36,3 +36,5 @@ I'm a software engineer student at Faculty of Informatics and Information Techno
 <p align="left">
   <a href="https://www.linkedin.com/in/bálint-janik-ab30b3280/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+<p align="left">
+  <a href="https://balintj4.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
